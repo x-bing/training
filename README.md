@@ -1,3 +1,4 @@
+### https://github.com/x-bing/training
 
 ## 请大家一定按照指南，完成Linux环境的搭建和配置
 
